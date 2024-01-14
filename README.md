@@ -70,7 +70,7 @@ Graph visualizations are included to illustrate the structure of communities, co
 
 The project concludes with a summary of findings, insights gained, and potential use cases for leveraging community detection in dynamic networks.
 
-         ![image](https://user-images.githubusercontent.com/43510001/194229600-bc71c1ca-1f06-4cbb-9767-c924a6386737.png)
+![image](https://user-images.githubusercontent.com/43510001/194229600-bc71c1ca-1f06-4cbb-9767-c924a6386737.png)
 
 ## Contributing
 
