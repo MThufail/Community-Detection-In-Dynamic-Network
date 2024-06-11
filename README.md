@@ -79,7 +79,3 @@ Contributions to the project are welcome. If you have suggestions, improvements,
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this README template based on additional details and specifics of your project.
